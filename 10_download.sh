@@ -1,0 +1,6 @@
+# !/bin/bash
+# Script to download a file from internet using command wget
+
+echo "Download information from internet"
+wget https://www-us.apache.org/dist/tomcat/tomcat-8/v8.5.35/bin/apache-tomcat-8.5.35.zip
+
