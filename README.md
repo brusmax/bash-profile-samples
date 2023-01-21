@@ -17,4 +17,5 @@ We will see:
 - Conditionals expressions 
 - Conditionals with casei
 - Arrays
+- Loop - for
 
