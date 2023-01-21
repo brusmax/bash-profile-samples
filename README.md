@@ -16,4 +16,5 @@ We will see:
 - Nested if 
 - Conditionals expressions 
 - Conditionals with casei
+- Arrays
 
