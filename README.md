@@ -21,4 +21,6 @@ We will see:
 - Loop - while
 - Neested Loops
 - Break, continue
+- Print a menu
+- Menu sample
 
