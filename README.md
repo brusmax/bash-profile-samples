@@ -18,4 +18,5 @@ We will see:
 - Conditionals with casei
 - Arrays
 - Loop - for
+- Loop - while
 
