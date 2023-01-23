@@ -1,5 +1,5 @@
 # !/bin/bash
-# Script with examples sing loop for 
+# Script with examples using loop while 
 # Author: @brusmax - hola@brusmax.com
 
 num=1

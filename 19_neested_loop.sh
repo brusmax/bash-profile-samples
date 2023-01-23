@@ -1,5 +1,5 @@
 # !/bin/bash
-# Script with examples using nested loopsr 
+# Script with examples using nested loops
 # Author: @brusmax - hola@brusmax.com
 
 echo "Neested Loops"
