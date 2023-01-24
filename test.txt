@@ -1,2 +1,0 @@
-values written with command echo 
-Writting from command line
