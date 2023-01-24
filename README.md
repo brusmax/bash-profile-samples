@@ -28,4 +28,5 @@ We will see:
 - Package files with password
 - Package files and transfer using rsync
 - Functions
+- Install postgres
 
