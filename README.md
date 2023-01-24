@@ -24,4 +24,6 @@ We will see:
 - Print a menu
 - Menu sample
 - Operation files
+- package files with tar, gzip and pbzip2
+- package files with password
 
