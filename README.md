@@ -26,4 +26,5 @@ We will see:
 - Operation files
 - package files with tar, gzip and pbzip2
 - package files with password
+- package files and transfer using rsync
 
