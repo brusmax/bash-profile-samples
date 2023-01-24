@@ -3,14 +3,14 @@
 This repository contains some basic examples to introduce you to bash shell.  
 
 We will see: 
--  Variables 
--  Type Operators 
+- Variables 
+- Type Operators 
 - Arguments 
 - Substitution command 
 - Read inputs 
 - Validate inputs 
 - Parse options 
--  Download files from the internet 
+- Download files from the internet 
 - Control sentence if Else 
 - Control sentence if Else if 
 - Nested if 
@@ -24,7 +24,8 @@ We will see:
 - Print a menu
 - Menu sample
 - Operation files
-- package files with tar, gzip and pbzip2
-- package files with password
-- package files and transfer using rsync
+- Package files with tar, gzip and pbzip2
+- Package files with password
+- Package files and transfer using rsync
+- Functions
 
